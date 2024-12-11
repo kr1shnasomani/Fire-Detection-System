@@ -3,10 +3,20 @@
 ## Execution Guide:
 1. Run the following command line in the terminal:
    ```
-
+   pip install numpy matplotlib seaborn opencv-python scikit-learn tensorflow keras kaggle
    ```
 
 2. Download the dataset (link to the dataset: **https://www.kaggle.com/datasets/tharakan684/urecamain**)
+
+3. Upon running the code it saves a file named `resnet50_model.keras` (this file stores the trained model)
+
+4. Enter the path of the image
+
+5. The output will look like:
+
+   ![image](https://github.com/user-attachments/assets/f2ca1938-202b-4132-8ebb-de161629eb25)
+
+   ![image](https://github.com/user-attachments/assets/d814cd77-9933-43b2-918b-99bbeaf044b5)
 
 ## Overview:
 This project develops a fire detection system using deep learning techniques. Here's a detailed breakdown:
