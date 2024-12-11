@@ -1,4 +1,5 @@
 # Fire Detection System
+The system uses a deep learning model based on ResNet50. It classifies images into "Fire" or "Non-Fire" categories, leveraging data augmentation and transfer learning. Achieved model training on large datasets with real-time prediction and visualization of results.
 
 ## Execution Guide:
 1. Run the following command line in the terminal:
