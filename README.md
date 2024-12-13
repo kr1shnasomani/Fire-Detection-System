@@ -13,13 +13,13 @@ The system uses a deep learning model based on ResNet50. It classifies images in
 
 4. Enter the path of the image and the code will output the prediciton
 
-## Accuracy and loss over epochs:
+## Accuracy & Loss Over Epochs:
 
 ![image](https://github.com/user-attachments/assets/734da48b-329d-49bd-a60f-f615cdf3d0a5) 
 
 ![image](https://github.com/user-attachments/assets/4c4c1114-3684-42ce-8b45-d518bf6f0522)
 
-## Model prediction:
+## Model Prediction:
 
    ![image](https://github.com/user-attachments/assets/f2ca1938-202b-4132-8ebb-de161629eb25)
 
