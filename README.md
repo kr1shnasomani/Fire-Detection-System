@@ -23,7 +23,7 @@ The system uses a deep learning model based on ResNet50. It classifies images in
 
    ![image](https://github.com/user-attachments/assets/f2ca1938-202b-4132-8ebb-de161629eb25)
 
-   ![image](https://github.com/user-attachments/assets/d814cd77-9933-43b2-918b-99bbeaf044b5)
+   ![image](https://github.com/user-attachments/assets/6848f755-48af-448a-b791-69b05f82300e)
 
 ## Overview:
 This project develops a fire detection system using deep learning techniques. Here's a detailed breakdown:
